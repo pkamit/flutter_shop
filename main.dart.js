@@ -64783,8 +64783,8 @@ this.mE(new A.a6r(this))}}
 A.QV.prototype={
 t_(a){var s=0,r=A.Y(t.Yw),q,p,o,n,m
 var $async$t_=A.Z(function(b,c){if(b===1)return A.V(c,r)
-while(true)switch(s){case 0:p=A.kO("https://"+a+"/wp-json/wc/v3/products/categories")
-o=B.H.gja().cb("ck_5ca4914e08347b5a8f87670d82cdb8705f2d380e:cs_b96e6d8484a39c409be7a5c30c48847069a51f3e")
+while(true)switch(s){case 0:p=A.kO("https://test1-woocommerce.brodos.shop/wp-json/wc/v3/products/categories")
+o=B.H.gja().cb("ck_f6e58aa5ce3b208356254f3f41e05deb27021092:cs_3548728ccf0a9463128d84a8bfc61c82d4b336c0")
 n=t.N
 s=3
 return A.a_(A.avR(p,A.aP(["Authorization","Basic "+B.ij.gja().cb(o)],n,n)),$async$t_)
